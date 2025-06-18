@@ -1,0 +1,21 @@
+{
+  "name": "markdown-content-inserter",
+  "version": "1.0.0",
+  "description": "A simple library for inserting content under specific headings in markdown",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "dev": "tsc --watch"
+  },
+  "keywords": ["markdown", "content", "insert", "heading"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
+}

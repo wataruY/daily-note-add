@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "context7": {
+        "command": "pnpx",
+        "args": ["@upstash/context7-mcp"]
+      },
+      "mcp-deepwiki": {
+        "command": "pnpx",
+        "args": ["mcp-deepwiki@latest"]
+      }
+    }
+}
