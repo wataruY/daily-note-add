@@ -1,7 +1,5 @@
 # Markdown Content Inserter
 
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/wataruY/daily-note-add?utm_source=oss&utm_medium=github&utm_campaign=wataruY%2Fdaily-note-add&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
-
 マークダウンの特定の見出しの下にコンテンツを追加するTypeScriptライブラリです。
 
 ## 機能
